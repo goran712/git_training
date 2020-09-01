@@ -1,7 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
-Change at 19/05
-=======
-Change on 19/08
-Now this is change on local 01.09  16:45h
->>>>>>> change_alice
+
